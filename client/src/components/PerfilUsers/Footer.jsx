@@ -34,7 +34,7 @@ export default function Footer() {
           <a href="#" className="a-href">
             HREF.
           </a>{" "}
-          Todos los derechos reservados.s2
+          Todos los derechos reservados.
         </h2>
       </div>
     </div>
